@@ -12,3 +12,5 @@ Así mismo, este **trabajo es realizado gracias al PAPIIT-IA104720** que nos per
 Dr. Oscar Alejandro Esquivel Flores
 
 C. Óscar Anuar Alvarado Morán
+
+<img src="ENC2021.png" alt="drawing" width="100"/>
