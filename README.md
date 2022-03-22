@@ -13,4 +13,4 @@ Dr. Oscar Alejandro Esquivel Flores
 
 C. Óscar Anuar Alvarado Morán
 
-<img src="ENC2021.png" alt="drawing" width="100"/>
+<img src="ENC2021.png" alt="drawing" width="300"/>
