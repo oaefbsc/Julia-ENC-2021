@@ -6,7 +6,9 @@ El tutorial **Código expresivo y eficiente: Introducción a Julia** se present�
 
 Atribuimos los créditos correspondientes de diversos ejemplos de código presentados durante el tutorial a múltiple colaboradores y entusiastas del lenguaje de programación Julia. Nuestra misión es estudiar, afinar y compartir el conocimiento e investigación sobre el lenguaje para ofrecer a estudiantes, profesores e investigadores una visión renovada sobre el cómputo científico.
 
-Así mismo, este trabajo es realizado gracias al PAPIIT-IA104720 que nos permite llevar acabo este intercambio de conocimiento Juliano.
+Así mismo, este **trabajo es realizado gracias al PAPIIT-IA104720** que nos permite llevar acabo este intercambio de conocimiento Juliano.
 
+### INSTRUCTORES:
 Dr. Oscar Alejandro Esquivel Flores
+
 C. Óscar Anuar Alvarado Morán
